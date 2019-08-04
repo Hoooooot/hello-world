@@ -1,3 +1,3 @@
 # hello-world
-# A new start in GitHub
+A new start in GitHub
 print "Hello World!"
